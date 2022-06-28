@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc5c2833.css",
-    "main.js": "/static/js/main.9a1325de.js",
+    "main.css": "/static/css/main.01b99e0b.css",
+    "main.js": "/static/js/main.d2093cf7.js",
     "static/media/bg.jpg": "/static/media/bg.72284e10419ea71a5999.jpg",
     "static/media/CMU_Typewriter_Text_BoldItalic.otf": "/static/media/CMU_Typewriter_Text_BoldItalic.f9d2c7aae69806d977a1.otf",
     "static/media/DancingScript-VariableFont_wght.ttf": "/static/media/DancingScript-VariableFont_wght.994c175ce44b12795d05.ttf",
     "static/media/map.png": "/static/media/map.05e821804e019d388ee6.png",
     "static/media/a_OldTyperNr_Italic.ttf": "/static/media/a_OldTyperNr_Italic.4c725be5efcb64ce0adc.ttf",
     "index.html": "/index.html",
-    "main.dc5c2833.css.map": "/static/css/main.dc5c2833.css.map",
-    "main.9a1325de.js.map": "/static/js/main.9a1325de.js.map"
+    "main.01b99e0b.css.map": "/static/css/main.01b99e0b.css.map",
+    "main.d2093cf7.js.map": "/static/js/main.d2093cf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc5c2833.css",
-    "static/js/main.9a1325de.js"
+    "static/css/main.01b99e0b.css",
+    "static/js/main.d2093cf7.js"
   ]
 }
